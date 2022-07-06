@@ -57,6 +57,8 @@ textarea {
   color: white;
 }
 
+
+
 .saveBtn {
   border-right: 1px solid black;
   border-top-left-radius: 15px;
@@ -70,27 +72,3 @@ textarea {
   transition: all 0.3s ease-in-out;
 }
 
-HTML CSS JSResult Skip Results Iframe
-EDIT ON
-
-body {
-  background:black;
-}
-h1 {
-  font-family: 'Helvetica';
-  display:flex;
-  align-items:center;
-  justify-content:center;
-  background:black;
-  color: #7BD711;
-  text-shadow: 1px 1px darkslategrey;
-}
-.text {
-  font-family: 'Helvetica';
-  font-size:22px;
-  display:relative;
-  color: white;
-  align-items:center;
-  justify-content:center;
-  background:black;
-} 
